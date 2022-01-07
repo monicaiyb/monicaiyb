@@ -1,4 +1,4 @@
-### Hi there 👋 My name is monica iyabo, a web,mobile developer and data science enthusiast
+### Hi there 👋 My name is monica iyabo a web, mobile developer and data science enthusiast
 
 <!--
 **monicaiyb/monicaiyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on a web inventory management system
-- 🌱 I’m currently learning python, machine learning
+- 🌱 I’m currently learning python, machine learning also participating in  #100DaysOfCode to help me stay consistent with learning
 - 👯 I’m looking to collaborate on open source projects hopefully my first 2022
+- ⚡ Fun fact: I laughter is contagious so i will join in your laughter.
