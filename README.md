@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a lot of intersting projects both pe
 - 🌱 I’m currently learning .net, product management, UI/UX design
 - 👯 I’m looking to collaborate on open source projects hopefully my first 2022
-- - 🤔 I’m looking for help with .net Framework, C#
+- 🤔 I’m looking for help with .net Framework, C#
 - ⚡ Fun fact: Laughter is contagious so i will join in your laughter.
