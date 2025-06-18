@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently a software engineer working with python, C#
-- 🌱 I’m currently learning Datascience
+- 🌱 I’m currently learning Data Engineering
 - 👯 I’m looking to collaborate on open source projects and do some data science project
-- 🤔 I’m looking for help with .net Framework, C#
+- 🤔 I’m looking for help with pipelines, and data ingestion
 - ⚡ Fun fact: Laughter is contagious so i will join in your laughter.
 - 📫 How to reach me: Linkedin monica iyabo X monicaiyb
