@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently a software engineer working with python, C#
-- 🌱 I’m currently learning Data Engineering
-- 👯 I’m looking to collaborate on open source projects and do some data science project
-- 🤔 I’m looking for help with pipelines, and data ingestion
+- 🔭 I’m currently a software engineer working with python, C#, asp.net, Django
+- 🌱 I’m currently learning Data Engineering, Kubernetes
+- 👯 I’m looking to collaborate on open source projects and do projects with containers
+- 🤔 I’m looking for help with pipelines, and data ingestion, containerisation
 - ⚡ Fun fact: Laughter is contagious so i will join in your laughter.
 - 📫 How to reach me: Linkedin monica iyabo X monicaiyb
